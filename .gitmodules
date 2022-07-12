@@ -8,12 +8,6 @@
 	url = https://github.com/tpetzoldt/fadist
 	shallow = true
 	registered = true
-[submodule "FAmle"]
-	path = FAmle
-	url = https://github.com/tpetzoldt/famle
-	shallow = true
-	subdir = pkg/FAmle
-	registered = true
 [submodule "growthrates"]
 	path = growthrates
 	url = https://github.com/tpetzoldt/growthrates
