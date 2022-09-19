@@ -6,9 +6,5 @@
   {
     "package": "FAmle",
     "oncran": true
-  },
-  {
-    "package": "growthrates",
-    "oncran": true
   }
 ]
