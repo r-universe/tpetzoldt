@@ -1,6 +1,6 @@
 [
   {
-    "package": "FAdist",
+    "package": "growthrates",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "growthrates",
+    "package": "FAdist",
     "oncran": true
   }
 ]
