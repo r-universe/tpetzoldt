@@ -19,3 +19,8 @@
 	url = https://github.com/tpetzoldt/growthrates
 	shallow = true
 	registered = true
+[submodule "simecol"]
+	path = simecol
+	url = https://github.com/cran/simecol
+	shallow = true
+	registered = true
