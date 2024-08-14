@@ -14,4 +14,4 @@
 	url = https://github.com/tpetzoldt/growthrates
 [submodule "simecol"]
 	path = simecol
-	url = https://github.com/cran/simecol
+	url = https://github.com/tpetzoldt/simecol
