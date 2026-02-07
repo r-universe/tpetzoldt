@@ -9,6 +9,9 @@
 	path = FAmle
 	url = https://github.com/tpetzoldt/famle
 	subdir = pkg/FAmle
+[submodule "deSolve"]
+	path = deSolve
+	url = https://github.com/tpetzoldt/desolve
 [submodule "growthrates"]
 	path = growthrates
 	url = https://github.com/tpetzoldt/growthrates
