@@ -31,6 +31,9 @@
 	path = marelac
 	url = https://github.com/r-forge/marelac
 	subdir = pkg/marelac
+[submodule "mlfeaturer"]
+	path = mlfeaturer
+	url = https://github.com/tpetzoldt/mlfeaturer
 [submodule "outfloweR"]
 	path = outfloweR
 	url = https://github.com/tpetzoldt/outfloweR
